@@ -46,7 +46,7 @@ Develop an application for the management of projects and their respective tasks
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=24px; height=24px;/>MySql</p>
  
  <h2>🎨Interface</h2>
-<img src="https://github.com/matheus-hjs/resources/blob/main/TodoApp/images/MainScreen1.jpg?raw=true" alt="Main Screen 1" width=600px;>
-<img src="https://github.com/matheus-hjs/resources/blob/main/TodoApp/images/MainScreen2.jpg?raw=true" alt="Main Screen 2" width=600px;>
-<img src="https://github.com/matheus-hjs/resources/blob/main/TodoApp/images/NewProjectScreen.jpg?raw=true" alt="New Project Screen" width=400px;>
-<img src="https://github.com/matheus-hjs/resources/blob/main/TodoApp/images/NewTaskScreen.jpg?raw=true" alt="New Task Screen" width=400px;>
+<img src="https://github.com/matheus-hjs/TodoApp/blob/main/images/MainScreen1.jpg?raw=true" alt="Main Screen 1" width=600px;>
+<img src="https://github.com/matheus-hjs/TodoApp/blob/main/images/MainScreen2.jpg?raw=true" alt="Main Screen 2" width=600px;>
+<img src="https://github.com/matheus-hjs/TodoApp/blob/main/images/NewProjectScreen.jpg?raw=true" alt="New Project Screen" width=400px;>
+<img src="https://github.com/matheus-hjs/TodoApp/blob/main/images/NewTaskScreen.jpg?raw=true" alt="New Task Screen" width=400px;>
